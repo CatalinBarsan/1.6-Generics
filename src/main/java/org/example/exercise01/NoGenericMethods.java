@@ -1,6 +1,7 @@
 package org.example.exercise01;
 
 public class NoGenericMethods {
+    //
     private String arg1;
     private String arg2;
     private String arg3;
